@@ -1,0 +1,21 @@
+2012.08.12 
+   libview can read ad value (5000*4) byte;
+2012.08.25
+   Version 0.1.1
+   1.add AD register Read & Write from UART;
+   2.Addr MT104CS scale Read & Write from USB.
+2012.09.09
+   Version 0.1.2
+   1.add the two channel data read.
+   2.add ad register read and write operation from UART.
+2012.09.11
+   Version 0.1.3
+   1.add the setting of ad sample freq support.
+2012.09.15
+   Version 0.1.4
+   1.add the AD sample frequency modify support by usb and UART;
+   2.add the signal Gain modify support by usb and UART; 
+2013.01.24
+   Version 0.1.6
+   1.Add matrix of parameter read and write.
+   2.Fix a bug of TMC( can't received big package)
